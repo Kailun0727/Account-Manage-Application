@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714552550856",
+    "project_id": "accountmanage-9a628",
+    "storage_bucket": "accountmanage-9a628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714552550856:android:f6b8b330d9355887bc4cfd",
+        "android_client_info": {
+          "package_name": "com.example.accountmanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714552550856-k5nc8prq635se7fukh1sars809v99f7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd9SKxuhUmmigLyz4fCYYZBTqlFUU_fWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714552550856-k5nc8prq635se7fukh1sars809v99f7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
